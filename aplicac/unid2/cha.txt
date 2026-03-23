@@ -1,0 +1,34 @@
+📌 O que você vai aprender
+🧠 Ideia principal
+
+Em Python, você não precisa criar tudo do zero.
+Existem bibliotecas prontas com funções que já resolvem problemas complexos — mais rápido e com mais qualidade.
+
+🧰 Principais aprendizados da unidade
+1. 📊 Manipulação de dados
+Como trabalhar com dados de forma eficiente
+Usando a biblioteca Pandas
+2. 🔢 Cálculos matemáticos
+Operações com vetores e matrizes
+Usando a biblioteca NumPy
+3. 🧪 Computação científica
+Funções mais avançadas para cálculos científicos
+Usando a biblioteca SciPy
+4. 📈 Estatística avançada
+Modelos e análises estatísticas mais completas
+Usando StatsModels
+5. 📉 Visualização de dados
+Criar gráficos e visualizar informações
+Usando
+Matplotlib
+Plotly
+6. ✂️ Indexação e slicing
+Como acessar partes específicas de dados (listas, arrays, etc.)
+🎯 Em resumo geral
+
+Você vai aprender a
+
+Usar bibliotecas prontas para ganhar tempo
+Trabalhar com dados, cálculos e estatísticas
+Criar gráficos e análises visuais
+Programar de forma mais profissional e eficiente
